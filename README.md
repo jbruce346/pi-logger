@@ -36,7 +36,7 @@ python plot.py
  
 ## Results
  
-<"The plot shows a steady temperature throughout most the day with minor spikes when I enter the room, or dropoffs when I open the window. There are also a few major spikes caused by restarting the Pi." -->
+The plot shows a steady temperature throughout most the day with minor spikes when I enter the room, or dropoffs when I open the window. There are also a few major spikes caused by restarting the Pi.
  
  
 ## What came next
@@ -47,5 +47,5 @@ This logger was the starting point for:
  
 ## Use of AI
  
-<"I used Claude as a tutor while building this: it explained systemd and SSH concepts and helped me debug. I wrote and ran the code and set up the Pi myself." -->
+I used Claude as a tutor while building this: it explained systemd and SSH concepts and helped me debug. I wrote and ran the code and set up the Pi myself.
  
